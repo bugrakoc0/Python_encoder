@@ -18,8 +18,8 @@ Basit aritmetik işlemler (örn: a + b), mantıksal ve bit düzeyinde çok karma
 ## 🛠️ Kurulum
 Projeyi klonlayın ve gerekli bağımlılıkları yükleyin:
 ```bash
-git clone https://github.com/bugrakoc0/Pyhon_Encoder.git
-cd Pyhon_Encoder
+git clone https://github.com/bugrakoc0/Python_encoder.git
+cd Python_encoder
 pip install -r requirements.txt
 
 ```
